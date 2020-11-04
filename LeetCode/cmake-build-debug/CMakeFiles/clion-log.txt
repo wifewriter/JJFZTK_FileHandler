@@ -1,4 +1,4 @@
-"E:\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" F:\C++project\LeetCode
+"D:\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" G:\C_C++\C++project\LeetCode
 -- Configuring done
 -- Generating done
--- Build files have been written to: F:/C++project/LeetCode/cmake-build-debug
+-- Build files have been written to: G:/C_C++/C++project/LeetCode/cmake-build-debug

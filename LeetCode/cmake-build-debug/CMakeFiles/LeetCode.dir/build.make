@@ -33,19 +33,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "E:\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe"
+CMAKE_COMMAND = "D:\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "E:\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f
+RM = "D:\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = F:\C++project\LeetCode
+CMAKE_SOURCE_DIR = G:\C_C++\C++project\LeetCode
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = F:\C++project\LeetCode\cmake-build-debug
+CMAKE_BINARY_DIR = G:\C_C++\C++project\LeetCode\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Leetcode.dir/depend.make
@@ -58,29 +58,29 @@ include CMakeFiles/Leetcode.dir/flags.make
 
 CMakeFiles/Leetcode.dir/LeetCode11.cpp.obj: CMakeFiles/Leetcode.dir/flags.make
 CMakeFiles/Leetcode.dir/LeetCode11.cpp.obj: ../LeetCode11.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++project\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Leetcode.dir/LeetCode11.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Leetcode.dir\LeetCode11.cpp.obj -c F:\C++project\LeetCode\LeetCode11.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=G:\C_C++\C++project\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Leetcode.dir/LeetCode11.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Leetcode.dir\LeetCode11.cpp.obj -c G:\C_C++\C++project\LeetCode\LeetCode11.cpp
 
 CMakeFiles/Leetcode.dir/LeetCode11.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/LeetCode11.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++project\LeetCode\LeetCode11.cpp > CMakeFiles\Leetcode.dir\LeetCode11.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E G:\C_C++\C++project\LeetCode\LeetCode11.cpp > CMakeFiles\Leetcode.dir\LeetCode11.cpp.i
 
 CMakeFiles/Leetcode.dir/LeetCode11.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/LeetCode11.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++project\LeetCode\LeetCode11.cpp -o CMakeFiles\Leetcode.dir\LeetCode11.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S G:\C_C++\C++project\LeetCode\LeetCode11.cpp -o CMakeFiles\Leetcode.dir\LeetCode11.cpp.s
 
 CMakeFiles/Leetcode.dir/LeetCode题解/learningRecord.cpp.obj: CMakeFiles/Leetcode.dir/flags.make
 CMakeFiles/Leetcode.dir/LeetCode题解/learningRecord.cpp.obj: ../LeetCode题解/learningRecord.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++project\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Leetcode.dir/LeetCode题解/learningRecord.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Leetcode.dir\LeetCode题解\learningRecord.cpp.obj -c F:\C++project\LeetCode\LeetCode题解\learningRecord.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=G:\C_C++\C++project\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Leetcode.dir/LeetCode题解/learningRecord.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Leetcode.dir\LeetCode题解\learningRecord.cpp.obj -c G:\C_C++\C++project\LeetCode\LeetCode题解\learningRecord.cpp
 
 CMakeFiles/Leetcode.dir/LeetCode题解/learningRecord.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/LeetCode题解/learningRecord.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++project\LeetCode\LeetCode题解\learningRecord.cpp > CMakeFiles\Leetcode.dir\LeetCode题解\learningRecord.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E G:\C_C++\C++project\LeetCode\LeetCode题解\learningRecord.cpp > CMakeFiles\Leetcode.dir\LeetCode题解\learningRecord.cpp.i
 
 CMakeFiles/Leetcode.dir/LeetCode题解/learningRecord.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/LeetCode题解/learningRecord.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++project\LeetCode\LeetCode题解\learningRecord.cpp -o CMakeFiles\Leetcode.dir\LeetCode题解\learningRecord.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S G:\C_C++\C++project\LeetCode\LeetCode题解\learningRecord.cpp -o CMakeFiles\Leetcode.dir\LeetCode题解\learningRecord.cpp.s
 
 # Object files for target Leetcode
 Leetcode_OBJECTS = \
@@ -96,7 +96,7 @@ Leetcode.exe: CMakeFiles/Leetcode.dir/build.make
 Leetcode.exe: CMakeFiles/Leetcode.dir/linklibs.rsp
 Leetcode.exe: CMakeFiles/Leetcode.dir/objects1.rsp
 Leetcode.exe: CMakeFiles/Leetcode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=F:\C++project\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Leetcode.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=G:\C_C++\C++project\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Leetcode.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Leetcode.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -109,6 +109,6 @@ CMakeFiles/Leetcode.dir/clean:
 .PHONY : CMakeFiles/Leetcode.dir/clean
 
 CMakeFiles/Leetcode.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" F:\C++project\LeetCode F:\C++project\LeetCode F:\C++project\LeetCode\cmake-build-debug F:\C++project\LeetCode\cmake-build-debug F:\C++project\LeetCode\cmake-build-debug\CMakeFiles\Leetcode.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" G:\C_C++\C++project\LeetCode G:\C_C++\C++project\LeetCode G:\C_C++\C++project\LeetCode\cmake-build-debug G:\C_C++\C++project\LeetCode\cmake-build-debug G:\C_C++\C++project\LeetCode\cmake-build-debug\CMakeFiles\Leetcode.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Leetcode.dir/depend
 
