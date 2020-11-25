@@ -1,0 +1,12 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/sourceCode.dir/temp1.cpp.obj"
+  "libsourceCode.dll.a"
+  "sourceCode.exe"
+  "sourceCode.exe.manifest"
+  "sourceCode.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/sourceCode.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
