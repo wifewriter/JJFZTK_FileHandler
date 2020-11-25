@@ -1,0 +1,3 @@
+G:/C_C++/C++project/JJFZTIKU/cmake-build-debug/CMakeFiles/JJFZTIKU.dir
+G:/C_C++/C++project/JJFZTIKU/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/C_C++/C++project/JJFZTIKU/cmake-build-debug/CMakeFiles/rebuild_cache.dir

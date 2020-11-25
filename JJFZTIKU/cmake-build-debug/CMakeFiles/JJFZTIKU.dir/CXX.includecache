@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/C_C++/C++project/JJFZTIKU/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+stdlib.h
+-
+memory.h
+-
+winnls.h
+-
+
